@@ -1,0 +1,8 @@
+CVPATH
+C:\cv2411\opencv
+
+DSHOW_SAMPLES
+C:\Program Files (x86)\Microsoft SDKs\Windows Kits\v7.1\Samples\multimedia;C:\Program Files (x86)\Microsoft SDKs\Windows Kits\v7.1\Samples\multimedia\directshow\baseclasses
+
+WXWIN
+c:\wxWidgets-3.0.1
